@@ -7,7 +7,7 @@
 # Ejemplos de condicionales
 x = 5
 y = 2
-
+#CAMBIO DE PRUEBA 
 # Verificar si "x" es par
 if (x % 2) == 0:
     print('x es par')
